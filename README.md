@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @karlyeledet
-- 
+-I'm a #womanintech
+-
 - 👀 I’m interested in ...
-- linux/python/JAVA
+- linux/python/JAVA/cloud computing/Virtual Machines/AI/Internet of Things
 - 
 - 🌱 I’m currently learning ...
 - bash scripting and python in detail
